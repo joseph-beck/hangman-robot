@@ -1,6 +1,6 @@
 # robotics-project
 
-LeJOS EV3 robotics project for CS1822 completed by Group 2
+LeJOS EV3 robotics project for CS1822.
 
 This has a wiped commit history and names redacted.
 
