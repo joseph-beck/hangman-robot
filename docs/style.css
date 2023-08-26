@@ -1,0 +1,25 @@
+.options {
+    margin: auto;
+    width: 50%;
+    padding: 125px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+body {
+    background-color: #454545;
+}
+
+a {
+    font-size: 72px;
+    background-color: aliceblue;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a:hover {
+    background-color: wheat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
